@@ -8,7 +8,7 @@ const Home = () => {
   const [loggedInUser, setLoggedInUser] = useContext(UserContext);
   const history = useHistory();
   const handleClick = (data) => {
-    history.push("/destination/:id")
+    history.push("/destination")
     setLoggedInUser(data);
   };
   return (

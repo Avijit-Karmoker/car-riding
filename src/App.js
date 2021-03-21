@@ -6,7 +6,6 @@ import Login from "./components/Login/Login";
 import Destination from "./components/Destination/Destination";
 import "bootstrap/dist/css/bootstrap.min.css";
 import background from "../src/images/Bg.jpg";
-import DestinationDetails from "./components/DestinationDetails/DestinationDetails";
 import NoMatch from "./components/NoMatch/NoMatch";
 import { createContext, useState } from "react";
 import PrivateRoute from "./components/PrivateRoute/PrivateRoute";
@@ -32,9 +31,6 @@ function App() {
             </Route>
             <PrivateRoute path="/destination">
               <Destination />
-            </PrivateRoute>
-            <PrivateRoute path="/destinationDetails">
-              <DestinationDetails />
             </PrivateRoute>
             <Route exact path="/">
               <Home />
