@@ -1,0 +1,25 @@
+.all-category{
+    width: 90%;
+    margin: auto;;
+}
+
+
+.category {
+    width: 20%;
+    height: 250px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 50px 0;
+    margin-bottom: 10px;
+    float: left;
+    margin: 2.5%;
+}
+
+.category img {
+    width: 55%;
+}
+
+.category h4{
+    padding-top: 25px;
+}

@@ -1,0 +1,85 @@
+.create-account {
+  background-color: #fff;
+  width: 40%;
+  margin: auto;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+.googlebtn img {
+  width: 30px;
+  margin-right: 40px;
+}
+
+.googlebtn {
+  text-align: center;
+  padding-right: 50px;
+  border-radius: 25px;
+  border: 1px solid #bdc3c7;
+  background-color: #fff;
+  margin-bottom: 10px;
+}
+
+.facebookbtn {
+  text-align: center;
+  padding-right: 38px;
+  border-radius: 25px;
+  border: 1px solid #bdc3c7;
+  background-color: #fff;
+  margin-bottom: 10px;
+}
+
+.facebookbtn img {
+  width: 30px;
+  margin-right: 40px;
+}
+
+.new-user h3 {
+  margin-bottom: 40px;
+}
+
+.new-user input {
+  width: 100%;
+  height: 40px;
+  margin-bottom: 10px;
+  border: none;
+  border-bottom: 1px solid lightgray;
+}
+
+.submit-btn {
+  background-color: #ff6e40;
+  border: none;
+  border-radius: 4px;
+}
+
+.hr {
+  border-top: 2px solid #bdc3c7;
+  width: 45%;
+}
+
+.or{
+    display: flex; 
+    margin-left: 3%; 
+    align-items: center;
+}
+
+.already-login{
+    display: flex;
+    align-items: center;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.already-login label{
+    margin-bottom: 0;
+    margin-right: 10px;
+}
+
+.already-login input{
+    background-color: #ff6e40;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #fff;
+}

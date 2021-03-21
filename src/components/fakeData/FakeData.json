@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "name": "Bike",
+    "img": "https://i.postimg.cc/Y2sF6DMG/Frame-3.png"
+  }, {
+    "id": 2,
+    "name": "Car",
+    "img": "https://i.postimg.cc/yxtS7xvX/Frame-2.png"
+  }, {
+    "id": 3,
+    "name": "Bus",
+    "img": "https://i.postimg.cc/QCHTL1kd/Frame-1.png"
+  }, {
+    "id": 4,
+    "name": "Train",
+    "img": "https://i.postimg.cc/CLnqmCxv/Frame-4.png"
+  }]
